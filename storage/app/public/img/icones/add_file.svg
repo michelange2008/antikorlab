@@ -5,8 +5,8 @@
    version="1.1"
    viewBox="0 0 1200 1200"
    id="svg8"
-   sodipodi:docname="noun-add-file-288359.svg"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="add_file.svg"
+   inkscape:version="1.4 (e7c3feb, 2024-10-09)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -26,24 +26,24 @@
      showgrid="false"
      inkscape:zoom="0.528125"
      inkscape:cx="748.87574"
-     inkscape:cy="799.05325"
+     inkscape:cy="798.10651"
      inkscape:window-width="1920"
-     inkscape:window-height="1043"
-     inkscape:window-x="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg8" />
   <g
      fill-rule="evenodd"
      id="g6"
-     style="fill:#0a425a;fill-opacity:1">
+     style="fill:#0a5a0e;fill-opacity:1">
     <path
        d="m960 328c0-5.3047-2.1055-10.391-5.8594-14.141l-188-188c-3.75-3.7539-8.8359-5.8594-14.141-5.8594h-492c-11.047 0-20 8.9531-20 20v920c0 11.047 8.9531 20 20 20h553.48c-16.125-11.355-30.656-24.824-43.191-40h-490.29v-880h440v180c0 11.047 8.9531 20 20 20h180v320.9c6.5859-0.59375 13.258-0.89844 20-0.89844s13.414 0.30469 20 0.89844zm-140 192c11.047 0 20-8.9531 20-20s-8.9531-20-20-20h-440c-11.047 0-20 8.9531-20 20s8.9531 20 20 20zm-160 120c11.047 0 20-8.9531 20-20s-8.9531-20-20-20h-280c-11.047 0-20 8.9531-20 20s8.9531 20 20 20zm80 120c11.047 0 20-8.9531 20-20s-8.9531-20-20-20h-360c-11.047 0-20 8.9531-20 20s8.9531 20 20 20zm-160 120c11.047 0 20-8.9531 20-20s-8.9531-20-20-20h-200c-11.047 0-20 8.9531-20 20s8.9531 20 20 20z"
        id="path2"
-       style="fill:#0a425a;fill-opacity:1" />
+       style="fill:#0a5a0e;fill-opacity:1" />
     <path
        d="m960 920v60c0 11.047-8.9531 20-20 20s-20-8.9531-20-20v-60h-60c-11.047 0-20-8.9531-20-20s8.9531-20 20-20h60v-60c0-11.047 8.9531-20 20-20s20 8.9531 20 20v60h60c11.047 0 20 8.9531 20 20s-8.9531 20-20 20zm-20 160c99.41 0 180-80.59 180-180s-80.59-180-180-180-180 80.59-180 180 80.59 180 180 180z"
        id="path4"
-       style="fill:#0a425a;fill-opacity:1" />
+       style="fill:#0a5a0e;fill-opacity:1" />
   </g>
 </svg>

@@ -2,7 +2,7 @@
 
 return array (
 
-  'site_title' => 'Parasit\'Lab - Laboratoire d\'analyse vétérinaire en parasitologie des ruminants,  porcs, chevaux, ânes en Drôme',
+  'site_title' => 'Antikor\'Lab - Analyses parasitologiques du cabinet Antikor',
   'cavaliers' => 'cavalières et propriétaires de chevaux ou d\'ânes',
   'copros' => 'Pourquoi des analyses parasitologiques&nbsp;?',
   'choisir_analyse' => 'Quelle analyse choisir&nbsp;?',

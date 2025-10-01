@@ -73,7 +73,7 @@ class IconesTableSeeder extends Seeder
           ['id' => 55, "nom" => "exclusions.svg", "type" => "analyses"],
           ['id' => 56, "nom" => "factures.svg", "type" => "divers"],
           ['id' => 57, "nom" => "felicitations.svg", "type" => "divers"],
-          ['id' => 58, "nom" => "fibl-logo.svg", "type" => "divers"],
+          ['id' => 58, "nom" => "antikor-logo.svg", "type" => "divers"],
           ['id' => 59, "nom" => "fleche_gauche.svg", "type" => "divers"],
           ['id' => 60, "nom" => "formulaire_ligne.svg", "type" => "analyses"],
           ['id' => 61, "nom" => "formulaire_vierge.svg", "type" => "analyses"],
