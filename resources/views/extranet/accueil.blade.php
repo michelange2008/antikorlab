@@ -36,11 +36,6 @@
 
       @include('extranet.accueil.accueil_entetes')
 
-      @include('extranet.accueil.accueil_labopresentation')
-
-      @include('extranet.accueil.resultats_rapides')
-
-      <hr class="labo-divider">
 
     </div>
 

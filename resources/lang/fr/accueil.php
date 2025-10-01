@@ -10,15 +10,15 @@ return array (
   ),
   'entetes' =>
   array (
-    'veterinaires' =>
+    'faire_analyse' =>
     array (
-      'titre' => 'Vétérinaires',
-      'texte_1' => 'Vous souhaitez proposer à vos éleveurs et clients un suivi parasitologique afin d\'affiner votre prescription.',
-      'texte_2' => 'Vous voulez évaluer les risques pathogènes et l\'existence éventuelle de résistance aux anthelmintiques.',
+      'titre' => 'Vous voulez faire une analyse ?',
+      'texte_1' => 'Il est intéressant de faire des analyses coproscopiques régulièrement pour connaître le niveau d\infestation de son troupeau.',
+      'texte_2' => 'Vous pouvez vérifier la technique pour réaliser un bon prélèvement et télécharger unee fiche de renseignements adaptée à vos animaux.',
     ),
-    'eleveurs' =>
+    'resultats' =>
     array (
-      'titre' => 'Eleveurs (-euses)',
+      'titre' => 'Vou voulez consulter vos résultats ?',
       'texte_1' => 'Vous souhaitez faire un suivi régulier et raisonné de l\'infestation de votre troupeau pour mieux cibler vos traitements antiparasitaires.',
       'texte_2' => 'Vous êtes à la recherche d\'un laboratoire vous fournissant des réponses rapides à vos questions sur le parasitisme d\'un animal ou de votre troupeau.',
     ),

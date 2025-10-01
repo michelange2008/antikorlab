@@ -1,20 +1,14 @@
 {
   "veterinaires" :
   {
-    "icone" : "veto_rond.svg",
-    "prefixe" : "accueil.entetes.veterinaires.",
+    "icone" : "copr.svg",
+    "prefixe" : "accueil.entetes.faire_analyse.",
     "route" : "veterinaires.accueil"
   },
   "eleveurs" :
   {
-    "icone" : "eleveur_rond.svg",
-    "prefixe" : "accueil.entetes.eleveurs.",
+    "icone" : "resultats.svg",
+    "prefixe" : "accueil.entetes.resultats.",
     "route" : "eleveurs.accueil"
-  },
-  "cavalieres" :
-  {
-    "icone" : "cv_rond.svg",
-    "prefixe" : "accueil.entetes.cavalieres.",
-    "route" : "cavaliers.accueil"
   }
 }
